@@ -14,7 +14,6 @@ I'm a **DevOps Engineer** passionate about building reliable, automated, and sca
 ### ☁️ Cloud
 
 * AWS
-* Azure
 
 ### 🔄 CI/CD
 
